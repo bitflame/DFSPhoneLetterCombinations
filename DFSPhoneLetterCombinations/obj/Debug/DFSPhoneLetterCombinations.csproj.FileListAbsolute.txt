@@ -1,0 +1,7 @@
+C:\Users\usr\source\repos\DFSPhoneLetterCombinations\DFSPhoneLetterCombinations\bin\Debug\DFSPhoneLetterCombinations.exe.config
+C:\Users\usr\source\repos\DFSPhoneLetterCombinations\DFSPhoneLetterCombinations\bin\Debug\DFSPhoneLetterCombinations.exe
+C:\Users\usr\source\repos\DFSPhoneLetterCombinations\DFSPhoneLetterCombinations\bin\Debug\DFSPhoneLetterCombinations.pdb
+C:\Users\usr\source\repos\DFSPhoneLetterCombinations\DFSPhoneLetterCombinations\obj\Debug\DFSPhoneLetterCombinations.csprojAssemblyReference.cache
+C:\Users\usr\source\repos\DFSPhoneLetterCombinations\DFSPhoneLetterCombinations\obj\Debug\DFSPhoneLetterCombinations.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\DFSPhoneLetterCombinations\DFSPhoneLetterCombinations\obj\Debug\DFSPhoneLetterCombinations.exe
+C:\Users\usr\source\repos\DFSPhoneLetterCombinations\DFSPhoneLetterCombinations\obj\Debug\DFSPhoneLetterCombinations.pdb
