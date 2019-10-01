@@ -45,8 +45,6 @@ namespace DFSPhoneLetterCombinations
             lettersMap.TryGetValue(digits[pos], out char[] values);        
                 foreach (var v in values)
                 {  
-                    if (v.ToString() == sb.ToString())
-                        continue;
                     sb.Append(v);
                     LetterCombinationsFunction(digits, sb, lettersMap, result, pos+1);
                     sb.Remove(sb.Length - 1, 1);
